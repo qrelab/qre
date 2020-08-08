@@ -1,0 +1,165 @@
+h1 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    padding-top: 350px;
+    padding-left: 50px;
+    color: rgb(252, 0, 80);
+    text-align: center;
+    opacity: 90%;
+}
+
+.info {
+    background-image: url("./images/bulb5.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.the h2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 5px;
+    margin-left: 50px;
+    color: rgb(121, 184, 132);
+    opacity: 45%;
+}
+
+.the h3 {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 7px;
+    margin-left: 53px;
+    color: rgb(191, 191, 191);
+}
+
+.the p {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    color: rgb(191, 191, 191);
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 900px;
+    z-index: 100;
+}
+
+.the {
+    margin-top: 1000px;
+    padding-top: 50px;
+    margin-bottom: 300px;
+    background-position: right;
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.the img {
+    margin-left: 750px;
+    position: relative;
+    bottom: 210px;
+}
+
+.change {
+    margin-top: 2000px;
+    padding-top: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.change h2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 5px;
+    margin-left: 50px;
+    color: rgb(121, 184, 132);
+    opacity: 45%;
+}
+
+.change h3 {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 7px;
+    margin-left: 53px;
+    color: rgb(191, 191, 191);
+}
+
+.change p {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 40px;
+    color: rgb(191, 191, 191);
+    margin-top: 150px;
+    margin-left: 800px;
+    text-align: right;
+    margin-left: 700px;
+    margin-right: 90px;
+    z-index: 100;
+}
+
+.change img {
+    height: 700px;
+    width: 490px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+button {
+    transition-duration: 0.4s;
+    border-radius: 8px;
+    border-color: rgb(245, 245, 245);
+    font-family: sans-serif;
+    background-color: rgb(245, 245, 245);
+    opacity: 50%;
+    font-size: 20px;
+    padding: 20px 15px;
+    font-weight: bold;
+}
+  
+button:hover {
+    background-color: rgb(252, 0, 80);
+    opacity: 50%;
+    color: white;
+}
+
+table {
+    float: right;
+    margin-right: 200px;
+    margin-top: 100px;
+    position: relative;
+    bottom: 680px;
+    margin-top: 60px;
+}
+
+.one{
+    margin-right: 50px;
+}
+
+.two {
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.three {
+    margin-right: 50px;
+    margin-top: 20px;
+}
