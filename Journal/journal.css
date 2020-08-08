@@ -34,22 +34,22 @@ h1 {
 }
 
 .the h3 {
-    font-family: sans-serif;
+    font-family: "Nunito", sans-serif;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 7px;
     margin-left: 53px;
     color: rgb(191, 191, 191);
 }
 
 .the p {
-    font-family: sans-serif;
-    font-size: 20px;
-    font-weight: normal;
-    line-height: 30px;
+    font-family: "Nunito", sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 40px;
     color: rgb(191, 191, 191);
     padding: 10px;
-    margin-top: 100px;
+    margin-top: 150px;
     margin-left: 50px;
     margin-right: 900px;
     z-index: 100;
@@ -94,18 +94,18 @@ h1 {
 }
 
 .change h3 {
-    font-family: sans-serif;
+    font-family: "Nunito", sans-serif;
     font-size: 30px;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 7px;
     margin-left: 53px;
     color: rgb(191, 191, 191);
 }
 
 .change p {
-    font-family: sans-serif;
-    font-size: 20px;
-    font-weight: normal;
+    font-family: "Nunito", sans-serif;
+    font-size: 30px;
+    font-weight: 300;
     line-height: 40px;
     color: rgb(191, 191, 191);
     margin-top: 150px;
@@ -127,12 +127,12 @@ button {
     transition-duration: 0.4s;
     border-radius: 8px;
     border-color: rgb(245, 245, 245);
-    font-family: sans-serif;
+    font-family: "Nunito", sans-serif;
     background-color: rgb(245, 245, 245);
     opacity: 50%;
     font-size: 20px;
     padding: 20px 15px;
-    font-weight: bold;
+    font-weight: 300;
 }
   
 button:hover {
@@ -162,4 +162,11 @@ table {
 .three {
     margin-right: 50px;
     margin-top: 20px;
+}
+
+footer p {
+    font-family: "Nunito", sans-serif;
+    font-size: 10px;
+    line-height: 40px;
+    text-align: left;
 }

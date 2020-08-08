@@ -19,6 +19,7 @@ a {
     font-size: 20px;
     padding: 20px 40px;
     float: right;
+    font-weight: 300;
 }
 
 h1 {
@@ -42,6 +43,13 @@ button {
     margin-top: 20px;
     display: inline-block;
     margin-left: 40%;
+    font-weight: 300;
+}
+
+button:hover {
+    background-color: rgb(252, 0, 80);
+    opacity: 60%;
+    color: white;
 }
 
 .journal button {
@@ -93,6 +101,7 @@ h2 {
     line-height: 40px;
     padding-right: 20%;
     padding-top: 5%;
+    font-weight: 300;
 }
 
 .journal {
@@ -116,6 +125,7 @@ h2 {
     line-height: 40px;
     text-align: center;
     margin-left: 70px;
+    font-weight: 300;
 }
 
 .founder {
@@ -141,4 +151,5 @@ footer p {
     font-family: "Nunito", sans-serif;
     font-size: 20px;
     line-height: 40px;
+    font-weight: 300;
 }
